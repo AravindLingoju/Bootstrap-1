@@ -1,0 +1,10 @@
+.bg-image1{
+    background-image: url("./images/H-1.jpg");
+}
+
+.carousel-image{
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
